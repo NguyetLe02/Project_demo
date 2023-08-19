@@ -1,1 +1,2 @@
 Noi dung cua feature1
+Update feature1
